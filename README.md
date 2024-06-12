@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###Overview of E-COmmerce App in React
+In this project you will see use of hooks, and how different components communicate using different methods like using props drilling , Context and finally Redux implementation is done which greatly impacts the performance as it renders only those that is being clicked or action being taken whereas for context whole list was re-rendering . Hence a good learning project giving insights how redux is being helful in imporving performance.
